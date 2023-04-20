@@ -59,7 +59,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Ravi Sharma";
+            document.title = "Portfolio | Prakash Sharma";
             $("#favicon").attr("href", "assets/images/pofile3-.png");
         }
         else {
